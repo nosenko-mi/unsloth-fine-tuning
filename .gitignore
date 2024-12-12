@@ -1,0 +1,6 @@
+model
+output
+results
+wandb
+.venv
+data

@@ -1,0 +1,13 @@
+transformers 
+datasets 
+accelerate 
+peft 
+trl 
+bitsandbytes 
+wandb
+pandas
+seaborn
+matplotlib
+unsloth
+torch
+tensorboardX
